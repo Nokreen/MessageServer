@@ -1,0 +1,9 @@
+2026-11-19T13:14:00 | POST | /messages | authorized_user
+2026-11-19T13:14:03 | GET | /messages | guest
+2026-11-19T13:14:32 | POST | /register | guest
+2026-11-19T13:14:59 | GET | /messages | guest
+2026-11-19T13:15:01 | DELETE | /messages/1 | authorized_user
+2026-11-19T13:15:59 | POST | /register | guest
+2026-11-19T13:17:04 | POST | /register | guest
+2026-11-19T13:17:04 | POST | /login | guest
+2026-11-19T13:17:34 | POST | /login | guest
